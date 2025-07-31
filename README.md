@@ -33,6 +33,6 @@ else:
     print("Invalid")
 ```
 # 📬 Contact
-Have any suggestions or issues?
+Have any suggestions or questions?
 
 [Contact me here](https://slain.me)
